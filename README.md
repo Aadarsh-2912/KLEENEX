@@ -8,3 +8,10 @@
 # Optimize Storage: Clean up junk and temporary files to optimize storage.
 # Find Large Files: Search for and manage large files on the system.
 # Settings: Access various settings, including appearance mode (light/dark).
+
+# Requirements
+# Python 3.x
+# Tkinter library
+# Pillow (PIL) library
+# Threading module
+# OS, shutil, and other standard Python libraries
