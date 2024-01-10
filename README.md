@@ -16,3 +16,8 @@
 # ~ Pillow (PIL) library
 # ~ Threading module
 # ~ OS, shutil, and other standard Python libraries
+
+# Usage :-
+# ~ Launch the application.
+# ~ Navigate through different functionalities using the buttons on the left sidebar.
+# ~ Follow on-screen instructions for each feature.
